@@ -38,3 +38,8 @@ Loops (like while) are commonly used in such calculators to allow repetitive act
 
 
 ![Screenshot 2025-01-15 005046](https://github.com/user-attachments/assets/b325fbed-3fac-4902-a39c-0ba320185390)
+
+
+
+![Screenshot 2025-01-15 005447](https://github.com/user-attachments/assets/8cddcca0-43fa-42ff-93c6-99ca5cb29994)
+
