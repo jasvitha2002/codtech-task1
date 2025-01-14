@@ -34,4 +34,7 @@ Basic arithmetic operations (+, -, *, /) are performed for the calculator functi
 **Control Structures:**
 
 Loops (like while) are commonly used in such calculators to allow repetitive actions. This program currently executes once and terminates.
+
+
+
 ![Screenshot 2025-01-15 005046](https://github.com/user-attachments/assets/b325fbed-3fac-4902-a39c-0ba320185390)
